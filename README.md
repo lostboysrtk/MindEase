@@ -1,6 +1,4 @@
-MindEase: Mental Health & Wellness App
-MindEase is a holistic iOS app designed to empower your mental health journey.
-Through personalized tools, community connection, and guided therapy resources, MindEase helps you build resilience, find calm, and thrive — one day at a time.
+MINDEASE
 
 🌟 Project Overview
 In today’s fast-paced world, MindEase offers a sanctuary for mental well-being.
