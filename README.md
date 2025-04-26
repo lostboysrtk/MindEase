@@ -86,16 +86,16 @@ pod install
 open MindEase.xcworkspace
 
 📸 Screenshots
-![IMG-20250426-WA0021](https://github.com/user-attachments/assets/38845f26-4960-4435-97ac-164567cffcc8)
-![IMG-20250426-WA0020](https://github.com/user-attachments/assets/42912a12-a6f7-4b56-a9b3-54fb8f45f46c)
-![IMG-20250426-WA0018](https://github.com/user-attachments/assets/7c18e7e2-8f44-4a20-b647-847c7390a703)
-![IMG-20250426-WA0017](https://github.com/user-attachments/assets/92e865e8-88df-4020-af30-f22df3f29c8e)
-![IMG-20250426-WA0016](https://github.com/user-attachments/assets/83b504a6-32a5-4ef4-ae9b-51ebed5e50ed)
-![IMG-20250426-WA0026](https://github.com/user-attachments/assets/07cac7a7-13e5-42cc-a469-ba6fa886a18b)
-![IMG-20250426-WA0025](https://github.com/user-attachments/assets/0ab8527d-a01f-4f3a-b311-d01e8fae3465)
-![IMG-20250426-WA0024](https://github.com/user-attachments/assets/448d21c0-adfc-4872-a268-afd079ca920d)
-![IMG-20250426-WA0023](https://github.com/user-attachments/assets/cd133f10-693f-4439-b98e-05331b33efc9)
-![IMG-20250426-WA0022](https://github.com/user-attachments/assets/e6378a3c-c324-4f1e-96fa-65c0dc853ab2)
+![IMG-20250426-WA0021](https://github.com/user-attachments/assets/38845f26-4960-4435-97ac-164567cffcc8)![IMG-20250426-WA0022](https://github.com/user-attachments/assets/e6378a3c-c324-4f1e-96fa-65c0dc853ab2)
+![IMG-20250426-WA0020](https://github.com/user-attachments/assets/42912a12-a6f7-4b56-a9b3-54fb8f45f46c)![IMG-20250426-WA0023](https://github.com/user-attachments/assets/cd133f10-693f-4439-b98e-05331b33efc9)
+![IMG-20250426-WA0018](https://github.com/user-attachments/assets/7c18e7e2-8f44-4a20-b647-847c7390a703)![IMG-20250426-WA0024](https://github.com/user-attachments/assets/448d21c0-adfc-4872-a268-afd079ca920d)
+![IMG-20250426-WA0017](https://github.com/user-attachments/assets/92e865e8-88df-4020-af30-f22df3f29c8e)![IMG-20250426-WA0025](https://github.com/user-attachments/assets/0ab8527d-a01f-4f3a-b311-d01e8fae3465)
+![IMG-20250426-WA0016](https://github.com/user-attachments/assets/83b504a6-32a5-4ef4-ae9b-51ebed5e50ed)![IMG-20250426-WA0026](https://github.com/user-attachments/assets/07cac7a7-13e5-42cc-a469-ba6fa886a18b)
+
+
+
+
+
 
 ✨ Wellness dashboard showcasing personal achievements
 
