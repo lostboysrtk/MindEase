@@ -7,6 +7,7 @@ Combining mood tracking, mindfulness practices, anonymous community support, and
 Whether you're looking for quick stress relief or deeper mental health support, MindEase has you covered.
 
 🚀 Key Features
+---
 🧠 Personalized Tracking & Progress
 Daily mood check-ins with stunning visual trend charts
 
